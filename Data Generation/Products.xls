@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,SubCategory,UnitPrice
+1,iPhone 15 Standard,Electronics,Smartphones,1366.54
+2,Samsung Galaxy S24 Pro,Electronics,Smartphones,659.06
+3,Google Pixel 8 Max,Electronics,Smartphones,642.22
+4,Lenovo IdeaPad Plus,Electronics,Laptops,826.97
+5,MacBook Air Lite,Electronics,Laptops,1237.32
+6,Dell XPS Elite,Electronics,Laptops,996.35
+7,Wireless Mouse Premium,Electronics,Accessories,33.87
+8,Mechanical Keyboard Ultra,Electronics,Accessories,43.58
+9,USB-C Cable Standard,Electronics,Accessories,69.17
+10,Bluetooth Speaker Pro,Electronics,Accessories,61.41
+11,Men Leather Jacket Max,Clothing,Men,18.28
+12,Men Denim Jeans Plus,Clothing,Men,18.77
+13,Men Slim Fit Shirt Lite,Clothing,Men,62.69
+14,Women Denim Jeans Elite,Clothing,Women,56.83
+15,Women Cotton T-Shirt Premium,Clothing,Women,36.02
+16,Summer Dress Ultra,Clothing,Women,69.08
+17,Running Shoes Standard,Clothing,Shoes,23.42
+18,Leather Boots Pro,Clothing,Shoes,27.43
+19,White Sneakers Max,Clothing,Shoes,63.37
+20,Air Fryer Plus,Home,Kitchen,114.02
+21,Coffee Maker Lite,Home,Kitchen,102.15
+22,Blender Elite,Home,Kitchen,33.18
+23,Electric Kettle Premium,Home,Kitchen,51.61
+24,Office Chair Ultra,Home,Furniture,136.33
+25,Study Desk Standard,Home,Furniture,182.98
+26,Bookshelf Pro,Home,Furniture,185.53
+27,Desk Lamp Max,Home,Decor,46.13
+28,Wall Clock Plus,Home,Decor,26.07
+29,Scented Candle Lite,Home,Decor,40.13
+30,iPhone 15 Elite,Electronics,Smartphones,1133.54
+31,Samsung Galaxy S24 Premium,Electronics,Smartphones,761.92
+32,Google Pixel 8 Ultra,Electronics,Smartphones,707.98
+33,Lenovo IdeaPad Standard,Electronics,Laptops,609.77
+34,MacBook Air Pro,Electronics,Laptops,1120.84
+35,Dell XPS Max,Electronics,Laptops,1286.77
+36,Wireless Mouse Plus,Electronics,Accessories,54.98
+37,Mechanical Keyboard Lite,Electronics,Accessories,36.2
+38,USB-C Cable Elite,Electronics,Accessories,16.25
+39,Bluetooth Speaker Premium,Electronics,Accessories,51.63
+40,Men Leather Jacket Ultra,Clothing,Men,33.59
+41,Men Denim Jeans Standard,Clothing,Men,59.36
+42,Men Slim Fit Shirt Pro,Clothing,Men,68.34
+43,Women Denim Jeans Max,Clothing,Women,63.45
+44,Women Cotton T-Shirt Plus,Clothing,Women,18.28
+45,Summer Dress Lite,Clothing,Women,13.77
+46,Running Shoes Elite,Clothing,Shoes,19.66
+47,Leather Boots Premium,Clothing,Shoes,49.81
+48,White Sneakers Ultra,Clothing,Shoes,33.07
+49,Air Fryer Standard,Home,Kitchen,216.82
+50,Coffee Maker Pro,Home,Kitchen,171.7
+51,Blender Max,Home,Kitchen,61.84
+52,Electric Kettle Plus,Home,Kitchen,48.41
+53,Office Chair Lite,Home,Furniture,201.08
+54,Study Desk Elite,Home,Furniture,103.96
+55,Bookshelf Premium,Home,Furniture,278.35
+56,Desk Lamp Ultra,Home,Decor,24.14
+57,Wall Clock Standard,Home,Decor,54.25
+58,Scented Candle Pro,Home,Decor,70.92
+59,iPhone 15 Max,Electronics,Smartphones,1144.89
+60,Samsung Galaxy S24 Plus,Electronics,Smartphones,834.48
+61,Google Pixel 8 Lite,Electronics,Smartphones,788.67
+62,Lenovo IdeaPad Elite,Electronics,Laptops,644.73
+63,MacBook Air Premium,Electronics,Laptops,907.3
+64,Dell XPS Ultra,Electronics,Laptops,1275.05
+65,Wireless Mouse Standard,Electronics,Accessories,31.92
+66,Mechanical Keyboard Pro,Electronics,Accessories,24.02
+67,USB-C Cable Max,Electronics,Accessories,69.97
+68,Bluetooth Speaker Plus,Electronics,Accessories,72.5
+69,Men Leather Jacket Lite,Clothing,Men,37.46
+70,Men Denim Jeans Elite,Clothing,Men,48.46
+71,Men Slim Fit Shirt Premium,Clothing,Men,74.1
+72,Women Denim Jeans Ultra,Clothing,Women,58.79
+73,Women Cotton T-Shirt Standard,Clothing,Women,46.16
+74,Summer Dress Pro,Clothing,Women,65.93
+75,Running Shoes Max,Clothing,Shoes,61.26
+76,Leather Boots Plus,Clothing,Shoes,25.49
+77,White Sneakers Lite,Clothing,Shoes,39.8
+78,Air Fryer Elite,Home,Kitchen,255.31
+79,Coffee Maker Premium,Home,Kitchen,121.61
+80,Blender Ultra,Home,Kitchen,25.21
+81,Electric Kettle Standard,Home,Kitchen,36.99
+82,Office Chair Pro,Home,Furniture,159.93
+83,Study Desk Max,Home,Furniture,209.81
+84,Bookshelf Plus,Home,Furniture,215.48
+85,Desk Lamp Lite,Home,Decor,51.93
+86,Wall Clock Elite,Home,Decor,68.1
+87,Scented Candle Premium,Home,Decor,70.61
+88,iPhone 15 Ultra,Electronics,Smartphones,1032.33
+89,Samsung Galaxy S24 Standard,Electronics,Smartphones,575.67
+90,Google Pixel 8 Pro,Electronics,Smartphones,756.9
+91,Lenovo IdeaPad Max,Electronics,Laptops,757.27
+92,MacBook Air Plus,Electronics,Laptops,1443.06
+93,Dell XPS Lite,Electronics,Laptops,1133.75
+94,Wireless Mouse Elite,Electronics,Accessories,23.56
+95,Mechanical Keyboard Premium,Electronics,Accessories,19.18
+96,USB-C Cable Ultra,Electronics,Accessories,12.59
+97,Bluetooth Speaker Standard,Electronics,Accessories,40.78
+98,Men Leather Jacket Pro,Clothing,Men,73.75
+99,Men Denim Jeans Max,Clothing,Men,20.54
+100,Men Slim Fit Shirt Plus,Clothing,Men,51.51
