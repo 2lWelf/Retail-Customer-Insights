@@ -109,5 +109,10 @@ Retail-Customer-Insights/
 │   ├── Bulk Insert.sql
 │   ├── Database & Table Creation.sql
 │   └── Views.sql
-│
+|
+├── Screenshots/
+│   ├── Customer Insights.png
+│   ├── Product Trends.png
+│   └── Sales Overview.png
+|
 └── README.md
