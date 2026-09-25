@@ -84,31 +84,33 @@ Analyzes product and category performance.
 ## 📷 Dashboard Preview
 
 
+Uploading Screen Recording 2026-09-25 130433.mp4…
+
+
+
 ## 📁 Project Structure
 
 ```text
 Retail-Customer-Insights/
 │
-├── SQL/
-│   ├── Create_Tables.sql
-│   ├── Insert_Data.sql
-│   └── Create_Views.sql
+├── Data Generation/
+│   ├── Customers.xls
+│   ├── Payments.xls
+│   ├── Products.xls
+│   └── Sales.xls
+│
+├── Power BI/
+│   └── Project.pbix
 │
 ├── Python/
-│   └── analysis.ipynb
+│   └── Project Code.ipynb
 │
-├── PowerBI/
-│   └── Retail_Customer_Insights.pbix
-│
-├── Data/
-│   ├── Customers.csv
-│   ├── Products.csv
-│   ├── Sales.csv
-│   └── Payments.csv
-│
-├── Screenshots/
-│   ├── Sales_Overview.png
-│   ├── Customer_Insights.png
-│   └── Product_Trends.png
+├── SQL/
+│   ├── SQL Views Export/
+│   │   ├── RecentSalescsv.csv
+│   │   └── SalesSummary.csv
+│   ├── Bulk Insert.sql
+│   ├── Database & Table Creation.sql
+│   └── Views.sql
 │
 └── README.md
