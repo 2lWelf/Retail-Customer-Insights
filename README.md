@@ -3,7 +3,7 @@
 An end-to-end data analysis project focused on understanding customer
 behavior, sales trends, product performance, and payment methods.
 
-## 📌 Project Overview
+## 📌 Project Overview 
 
 This project was completed as part of my Data Analysis course and covers
 the full data analysis workflow, from relational database design and SQL
@@ -39,12 +39,12 @@ An ER diagram is included in the project files.
 
 Created SQL views to support analysis:
 
-### `vw_SalesSummary`
+### `SalesSummary`
 
 Combines customer, product, and sales information to calculate
 the total amount after discounts.
 
-### `vw_RecentSales`
+### `RecentSales`
 
 Identifies recent sales where a discount was applied.
 
@@ -83,10 +83,7 @@ Analyzes product and category performance.
 
 ## 📷 Dashboard Preview
 
-
 Uploading Screen Recording 2026-09-25 130433.mp4…
-
-
 
 ## 📁 Project Structure
 
