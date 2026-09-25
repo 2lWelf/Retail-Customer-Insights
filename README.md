@@ -81,10 +81,6 @@ Explores customer characteristics and purchasing behavior.
 ### Product Trends
 Analyzes product and category performance.
 
-## 📷 Dashboard Preview
-
-Uploading Screen Recording 2026-09-25 130433.mp4…
-
 ## 📁 Project Structure
 
 ```text
